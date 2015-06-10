@@ -102,6 +102,6 @@ The `prefix` change makes Sprockets use a different URL for serving assets in de
 
 In practice, this will allow you to precompile locally, have those files in your working tree, and commit those files to source control when needed. Development mode will work as expected.
 
-  
+Show examples in the rails app of adding code and how it gets compiled 
   
 
